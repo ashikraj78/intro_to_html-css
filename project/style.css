@@ -1,0 +1,10 @@
+ul{
+	padding: 0;
+	list-style-type: none;
+}
+.box{
+	border-radius: 0;
+	background: green;
+	padding: 5px;
+	text-decoration:none;
+}

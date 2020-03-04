@@ -1,0 +1,31 @@
+.home{
+	background: #0444bf;
+}
+.about{
+	background: #0584f2;
+	color:yellow;
+}
+.about p{
+	color:green;
+}
+.contact{
+	background: #0aaff1;
+	color: yellow;
+}
+.contact p{
+	color: red;
+}
+h1{
+	color:#fff;
+	font-size: 2em;
+	text-align: center;
+}
+p{
+	color: #adcbe3;
+	font-size: 1.2em;
+}
+li{
+	list-style-type: none;
+	text-align: center;
+	color:yellow;
+}
